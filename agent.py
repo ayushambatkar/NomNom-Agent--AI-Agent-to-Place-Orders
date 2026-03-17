@@ -31,7 +31,7 @@ if not GROQ_API_KEY:
 
 client = Groq(api_key=GROQ_API_KEY)
 # MODEL_ID = "llama-3.3-70b-versatile"  # Fast model with function calling support
-MODEL_ID = "meta-llama/llama-prompt-guard-2-86m"
+MODEL_ID = "meta-llama/llama-prompt-guard-2-86m" # less token usage
 
 # === Tool Functions ===
 # These functions are called by the agent and interact with the backend API

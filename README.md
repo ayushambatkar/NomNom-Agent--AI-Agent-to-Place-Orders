@@ -1,6 +1,6 @@
 # NomNom Restaurant Assistant 🍽️
 
-A conversational AI-powered restaurant assistant built with Streamlit and Google Gemini.
+A conversational AI-powered restaurant assistant built with Streamlit and Groq.
 
 ## Features
 
